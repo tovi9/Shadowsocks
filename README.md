@@ -11,12 +11,16 @@ Shadowsocks
 
 ### IOS
 
+![OSX](https://github.com/tovi9/Shadowsocks/blob/master/Resources/img/ios_shadowsocks.png)
+
 [APP Stroe](https://itunes.apple.com/us/app/shadowsocks/id665729974?ls=1&mt=8)
 
 
 ### OSX
 
-[Latest release]()
+![OSX](https://github.com/tovi9/Shadowsocks/blob/master/Resources/img/osx_shadowsocks.png)
+
+[Latest release](https://github.com/tovi9/Shadowsocks/blob/master/Client/OSX/ShadowsocksX-2.6.3.dmg)
 
 
 ### Window
@@ -25,8 +29,8 @@ Notice: .Net 2.0 doesn't work well on Windows 10. Beginning from this version, w
 
 **latest release**
 
-[Shadowsocks-win-2.5.2.zip]()
+[Shadowsocks-win-2.5.2.zip](https://github.com/tovi9/Shadowsocks/blob/master/Client/Windows/2.5.2/Shadowsocks-win-2.5.2.zip)
 
-[Shadowsocks-win-dotnet4.0-2.5.2.zip]()
+[Shadowsocks-win-dotnet4.0-2.5.2.zip](https://github.com/tovi9/Shadowsocks/blob/master/Client/Windows/2.5.2/Shadowsocks-win-dotnet4.0-2.5.2.zip)
 
 
