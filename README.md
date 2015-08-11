@@ -6,7 +6,7 @@ Shadowsocks
 
 ### Android
 
-[Latest release]()
+[Latest release](https://github.com/tovi9/Shadowsocks/blob/master/Client/Android/shadowsocks-nightly-2.7.7.apk)
 
 
 ### IOS
